@@ -1,0 +1,6 @@
+
+HTML Attributes are special words used within the opening tag of an HTML element. They provide additional information about HTML elements. 
+HTML attributes are used to configure and adjust the element's behaviour, appearance, or functionality in a variety of ways.
+
+Each attribute has a name and a value, formatted as name="value".
+Attributes tell the browser how to render the element or how it should behave during user interactions.
